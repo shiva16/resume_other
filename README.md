@@ -1,5 +1,6 @@
-# resume Other Parts
+# Resume - Other Parts
 ## Other activities
+
 
 1. Found efficient in working with senior research scholars, postdocs and their team members from various domains in developing novel ideas and methods to solve problems in the field of neurology, drug design , development & kinematics and machine learning systems.
 2. Presented my research works at several national and international conferences/symposiums, winning a few publication awards.
@@ -34,4 +35,8 @@ Perpetual trekker, part time Psychologist, Lifecoach, Botanist-carnivorous garde
 4. Influence of FeSO4 on magnetosomic nanoparticles synthesized by microorganisms. - Proceedings.
 5. Antibacterial and Anti-Tumor activity of Endophytic Fungal Metabolites isolated from garden weeds. - Proceedings.
 6. Synthesis and characterization of Optically active and water soluble carbon Nanoparticles by chemical reduction method. IEEE.
-7. keynote speaker - National Conference on “Green Chemistry and safer environment - 2017”, St. Mary’s College, Thoothukudi, Tamil Nadu as a keynote speaker and Resource Person.  - Keynote publication.
+7. keynote speaker - National Conference on “Green Chemistry and safer environment - 2017”, St. Mary’s College, Thoothukudi, Tamil Nadu as a keynote speaker and Resource Person. - Keynote publication.
+
+
+[Link to my CV can be found here](https://github.com/shiva16/resume_other/blob/main/CV'nov_1.pdf)
+
