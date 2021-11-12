@@ -1,9 +1,7 @@
 # Resume - Other Parts
 ## Other activities
 
-### Designed & Developed at Soul Scientific and Agrio :
-### As the Founder and Research Director :
-
+### Founded Soul Scientific, Forest Studio(was Agrio before), Cephei Technologies :
 
 1. Designed several prototypes for plant and animal electrophysiology mining, learning and as automation control system interfaces.
 2. Optimization and selection of components for an autonomous multirotor UAV with obstacle avoidance capability using ultrasonic sensors. - Proceedings
