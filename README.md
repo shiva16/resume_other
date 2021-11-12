@@ -1,5 +1,5 @@
 # Resume - Other Parts
-## Other activities
+## My Other activities
 
 ### Founded Soul Scientific, Forest Studio(was Agrio before), Cephei Technologies :
 
@@ -10,6 +10,7 @@
 5. Wildlife conservation volunteer at Indian Wildlife Club and WWF India.
 6. Lifetime member at Krishnamurthy Institute of Algology.
 7. The following are a few core works published & in proceedings.
+8. Extinct and endangered plant specie revival and development to the wild and its conservation activities - we are currently focusing on Carnivoruos plant species.
 
 ## My Publications 
 
