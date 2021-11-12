@@ -1,20 +1,6 @@
 # Resume - Other Parts
 ## Other activities
 
-
-1. Found efficient in working with senior research scholars, postdocs and their team members from various domains in developing novel ideas and methods to solve problems in the field of neurology, drug design , development & kinematics and machine learning systems.
-2. Presented my research works at several national and international conferences/symposiums, winning a few publication awards.
-3. Worked with various groups as a key member rapidly equalizing the contribution created.
-4. Organised National and International conferences/symposiums.
-5. Organiser and reviewer of Pysangamam' 18 & Pycon India’ 19.
-6. Founded EEG/BCI research startup called Soul Scientific in 2012, incorporated in 2016 developing a wide range of products from neuroscience to agritech.
-7. Founded Cephei Technologies, an NLP Paas Startup Incubated at IITMRP from 2019, shutdown as of march 2020.
-8. Founded Forest Studio in 2018, an ecology retrieval based smart agri startup, still providing services across India.
-9. Drone designer and developer. (Sponsored by Hindustan University) : Represented India & won “Most Innovative Design Award” by Association for Unmanned Vehicle Systems International at International Aerial Robotics Competition -2014, Yantai, China.
-Badminton State level player (TN).
-10. A Mean-Stack developer :  Deep learning using Natural language processing, Classification and adviseral networks problems.
-Perpetual trekker, part time Psychologist, Lifecoach, Botanist-carnivorous gardener & BCI Trader.
-
 ### Designed & Developed at Soul Scientific and Agrio :
 ### As the Founder and Research Director :
 
@@ -39,4 +25,18 @@ Perpetual trekker, part time Psychologist, Lifecoach, Botanist-carnivorous garde
 
 
 [Link to my CV can be found here](https://github.com/shiva16/resume_other/blob/main/CV'nov_1.pdf)
+
+1. Found efficient in working with senior research scholars, postdocs and their team members from various domains in developing novel ideas and methods to solve problems in the field of neurology, drug design , development & kinematics and machine learning systems.
+2. Presented my research works at several national and international conferences/symposiums, winning a few publication awards.
+3. Worked with various groups as a key member rapidly equalizing the contribution created.
+4. Organised National and International conferences/symposiums.
+5. Organiser and reviewer of Pysangamam' 18 & Pycon India’ 19.
+6. Founded EEG/BCI research startup called Soul Scientific in 2012, incorporated in 2016 developing a wide range of products from neuroscience to agritech.
+7. Founded Cephei Technologies, an NLP Paas Startup Incubated at IITMRP from 2019, shutdown as of march 2020.
+8. Founded Forest Studio in 2018, an ecology retrieval based smart agri startup, still providing services across India.
+9. Drone designer and developer. (Sponsored by Hindustan University) : Represented India & won “Most Innovative Design Award” by Association for Unmanned Vehicle Systems International at International Aerial Robotics Competition -2014, Yantai, China.
+Badminton State level player (TN).
+10. A Mean-Stack developer :  Deep learning using Natural language processing, Classification and adviseral networks problems.
+Perpetual trekker, part time Psychologist, Lifecoach, Botanist-carnivorous gardener & BCI Trader.
+
 
